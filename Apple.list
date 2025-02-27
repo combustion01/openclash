@@ -8,6 +8,8 @@
 # IP-CIDR: 10
 # PROCESS-NAME: 13
 # TOTAL: 1589
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com
 DOMAIN,appldnld.apple.com.edgesuite.net
 DOMAIN,apple-events.akamaized.net
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
