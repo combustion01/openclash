@@ -8640,7 +8640,6 @@ DOMAIN-SUFFIX,firestonecomercial.com.br
 DOMAIN-SUFFIX,firestonecomercial.com.co
 DOMAIN-SUFFIX,firestonecomercial.com.mx
 DOMAIN-SUFFIX,firestonecompleteautocare.com
-DOMAIN-SUFFIX,firestonedrivestore.com
 DOMAIN-SUFFIX,firestoneip.com
 DOMAIN-SUFFIX,firestonerewards.com
 DOMAIN-SUFFIX,firestonetire.ca
@@ -16765,12 +16764,6 @@ DOMAIN-SUFFIX,one.one.one
 DOMAIN-SUFFIX,one889.app
 DOMAIN-SUFFIX,oneapi.com
 DOMAIN-SUFFIX,onedinesfree.com
-DOMAIN-SUFFIX,onedrive.co
-DOMAIN-SUFFIX,onedrive.co.uk
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onedrive.eu
-DOMAIN-SUFFIX,onedrive.net
-DOMAIN-SUFFIX,onedrive.org
 DOMAIN-SUFFIX,onefifteen.net
 DOMAIN-SUFFIX,onefifteen.org
 DOMAIN-SUFFIX,onejapanese.com
@@ -31112,7 +31105,6 @@ DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
